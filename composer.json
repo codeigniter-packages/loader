@@ -1,0 +1,26 @@
+{
+	"name": "codeigniter-packages/loader",
+	"description": "part of codeigniter-packages",
+	"license": "MIT",
+	"keywords": [
+		"codeigniter", "packages"
+	],
+	"authors": [
+		{
+			"name": "jooonwood",
+			"email": "jooonwood@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"homepage": "https://github.com/codeigniter-packages/loader",
+	"support": {
+		"issues": "https://github.com/codeigniter-packages/loader/issues",
+		"source": "https://github.com/codeigniter-packages/loader"
+	},
+	"require": {
+        "php": ">=5.4.0"
+    },
+	"autoload": {
+        "files": ["codeigniter_packages_loader.php"]
+    }
+}
